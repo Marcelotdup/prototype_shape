@@ -1,4 +1,4 @@
-public abstract class Shape implements Cloenable {
+public abstract class Shape implements Cloneable {
     
     private String id;
     protected String type;
